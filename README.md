@@ -35,3 +35,5 @@ Este guia descreve como renomear o arquivo `script.js` para `script2.js` e atual
 
 ### Exemplo Imagem com botão:
 ![Screenshot_15](https://github.com/user-attachments/assets/37d351ed-944b-4906-a4c1-0fa0d2ccb67c)
+
+<h3>Copyright © Sniper Mask Dev</h3>
